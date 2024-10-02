@@ -1,9 +1,8 @@
-## 
-Bem vindo ao meu perfil
-Meu nome e  Vicente
-Estudo Nos cursos da alura
-Estou me desenvolvendo em linguagem java script
-estou a utilizar eese espaçao para compartilhar meus projetos.
+## Bem vindo ao meu perfil
+Meu nome é  Vicente
+- Estudo nos cursos da alura
+- Estou me desenvolvendo em linguagem java script
+- Estou a utilizar eese espaçao para compartilhar meus projetos.
 <!--
 **Coisaboa018/Coisaboa018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
